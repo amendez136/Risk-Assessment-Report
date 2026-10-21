@@ -50,8 +50,8 @@ A detailed risk assessment was conducted to identify root causes, assess busines
 
 | Artifact | Description |
 |-----------|-------------|
-| [Risk Assessment Report](file:///C:/Users/mende/Downloads/RIsk%20Assessment%20Project.pdf) | Cybersecurity risk assessment evaluating phishing, ransomware, and third-party breach incidents. |
-| [Forage Certificate](file:///C:/Users/mende/Downloads/DATACOM%20Cybersecurity%20Operations%20Certificate.pdf) | Certificate of completion for the Datacom Cybersecurity Job Simulation. |
+| [Risk Assessment Report]**(file:///C:/Users/mende/Downloads/RIsk%20Assessment%20Project.pdf)** | Cybersecurity risk assessment evaluating phishing, ransomware, and third-party breach incidents. |
+| [Forage Certificate]**(file:///C:/Users/mende/Downloads/DATACOM%20Cybersecurity%20Operations%20Certificate.pdf)** | Certificate of completion for the Datacom Cybersecurity Job Simulation. |
 
 ## Technologies & Concepts
 - Risk Assessment Methodology
