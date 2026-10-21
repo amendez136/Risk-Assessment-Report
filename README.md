@@ -1,9 +1,8 @@
 # Cybersecurity Risk Assessment Report
-
-## Overview
 This project was completed as part of the Datacom Cybersecurity Job Simulation hosted by Forage.
 
-The objective of this assessment was to analyze cybersecurity incidents affecting a fictional retail organization, RetailNova, evaluate organizational risk exposure, and recommend appropriate security controls to mitigate future threats.
+## Objective
+The goal of this assessment was to analyze cybersecurity incidents affecting a fictional retail organization, RetailNova, evaluate organizational risk exposure, and recommend appropriate security controls to mitigate future threats.
 
 ## Scenario
 RetailNova experienced three significant cybersecurity incidents over a three-year period:
