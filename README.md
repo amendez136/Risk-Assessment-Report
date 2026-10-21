@@ -51,10 +51,6 @@ A detailed risk assessment was conducted to identify root causes, assess busines
 | Artifact | Description |
 |-----------|-------------|
 
-[Datacom Forage Certificate](./Datacom_Forage_Certificate.pdf)
-| [Risk Assessment Report](./Risk_Assessment_Report.pdf) | Cybersecurity risk assessment evaluating phishing, ransomware, and third-party breach incidents. |
-| [Forage Certificate](./Datacom_Forage_Certificate.pdf)| Certificate of completion for the Datacom Cybersecurity Job Simulation. |
-
 ## Technologies & Concepts
 - Risk Assessment Methodology
 - Multi-Factor Authentication (MFA)
